@@ -1,2 +1,0 @@
-
-  # Sistema de Votación (Copy)
