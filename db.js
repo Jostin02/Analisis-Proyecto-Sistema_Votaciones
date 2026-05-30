@@ -13,6 +13,7 @@ conexion.connect(err => {
     return;
   }
   console.log('✅ Conectado a sistema_votaciones');
+  console.log('Esta funcionando bien ');
 });
 
 module.exports = conexion;

@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 const cors = require('cors');
 app.use(cors());
-
+/** este es el index donde se redirigen las rutas del archivo */
 
 
 app.use(express.json());
