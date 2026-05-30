@@ -1,4 +1,24 @@
 {
+<<<<<<< HEAD
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.4"
+  }
+}
+=======
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
@@ -89,3 +109,4 @@
     }
   }
 }
+>>>>>>> f1b42f7bb7ef3b6699a678dc5f39c883e114280f
